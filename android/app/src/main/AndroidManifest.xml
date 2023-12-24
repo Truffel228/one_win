@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.one_win">
+    package="com.sioqow.winz.app">
    <application
         android:label="one_win"
         android:name="${applicationName}"

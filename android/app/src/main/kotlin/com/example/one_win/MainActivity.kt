@@ -1,4 +1,4 @@
-package com.example.one_win
+package com.sioqow.winz.app
 
 import io.flutter.embedding.android.FlutterActivity
 
